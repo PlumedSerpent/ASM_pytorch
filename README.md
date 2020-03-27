@@ -1,4 +1,4 @@
-# Standard Readme
+# Pytorch implementation for Adversarial Structure Matching for Structured Prediction Tasks
 
 Pytorch implementation of : [Adversarial Structure Matching for Structured Prediction Tasks](http://openaccess.thecvf.com/content_CVPR_2019/papers/Hwang_Adversarial_Structure_Matching_for_Structured_Prediction_Tasks_CVPR_2019_paper.pdf). Due to my limited time and computation resources, I only perform several toy experiments on the Weizmann horse figure ground segmentation task.
 
